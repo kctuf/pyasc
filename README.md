@@ -1,1 +1,1 @@
-# pyasc
+# Python ogrenirken gelistirme calismalarim.
