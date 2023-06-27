@@ -1,1 +1,1 @@
-# Python ogrenirken gelistirme calismalarim.
+
